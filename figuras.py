@@ -7,7 +7,7 @@ def triangulo (base, altura):
 	perimetro=base+2*altura
 	return area, perimetro
 def circulo (radio):
-	area=3.14159(radio**2)
+	area=3.14159*(radio**2)
 	perimetro= 2*3.14159*radio
 	return area, perimetro
 
